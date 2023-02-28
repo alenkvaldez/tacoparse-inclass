@@ -25,7 +25,7 @@ namespace LoggingKata.Test
         [InlineData("34.073638, -84.677017, Taco Bell Acwort...", -84.677017)]
         [InlineData("31.570771, -84.10353, Taco Bell Albany...",-84.10353)]
         [InlineData("34.280205, -86.217115, Taco Bell Albertvill...", -86.217115)]
-        [InlineData("34.795116, -86.97191, 	Taco Bell Athens...", -86.97191)]
+        [InlineData("34.795116, -86.97191, Taco Bell Athens...", -86.97191)]
 
 
 
